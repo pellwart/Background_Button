@@ -2,3 +2,4 @@
 
 Click the button
 
+<img src="Images/main.jpg">
