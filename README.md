@@ -2,4 +2,4 @@
 
 Click the button
 
-<img src="Images/main.jpg">
+<img src="Images/main.JPG">
