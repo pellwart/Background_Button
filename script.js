@@ -28,7 +28,7 @@ function changeBackground() {
 
 btn.addEventListener('click', () => {
 
-    alert('hello');
+    
 
     changeBackground();
     
